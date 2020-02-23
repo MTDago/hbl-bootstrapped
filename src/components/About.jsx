@@ -8,7 +8,9 @@ export default function About() {
           <div className="col-lg-12 text-center">
             <h2 className="section-heading text-uppercase">About</h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              Hervey Bay Limousines in a locally owned and operated company
+              servicing the Fraser Coast. We provide comfortable, personal
+              transportation at competetive rates.
             </h3>
           </div>
         </div>
@@ -26,14 +28,12 @@ export default function About() {
                 <div className="timeline-panel">
                   <div className="timeline-heading">
                     <h4>2009-2011</h4>
-                    <h4 className="subheading">Our Humble Beginnings</h4>
+                    <h4 className="subheading">Where we began</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Sunt ut voluptatum eius sapiente, totam reiciendis
-                      temporibus qui quibusdam, recusandae sit vero unde, sed,
-                      incidunt et ea quo dolore laudantium consectetur!
+                      The demand for personal transportation comes to our
+                      attention and the planning and preparation process begins.
                     </p>
                   </div>
                 </div>
@@ -49,14 +49,14 @@ export default function About() {
                 <div className="timeline-panel">
                   <div className="timeline-heading">
                     <h4>March 2011</h4>
-                    <h4 className="subheading">An Agency is Born</h4>
+                    <h4 className="subheading">
+                      Hervey Bay Limousines Launches
+                    </h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Sunt ut voluptatum eius sapiente, totam reiciendis
-                      temporibus qui quibusdam, recusandae sit vero unde, sed,
-                      incidunt et ea quo dolore laudantium consectetur!
+                      We secure our first fleet car and hit the ground running.
+                      News of our services spreads just by word of mouth.
                     </p>
                   </div>
                 </div>
@@ -76,10 +76,13 @@ export default function About() {
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Sunt ut voluptatum eius sapiente, totam reiciendis
-                      temporibus qui quibusdam, recusandae sit vero unde, sed,
-                      incidunt et ea quo dolore laudantium consectetur!
+                      Our phones don't stop ringing, success at last. We're
+                      transporting people for any occasion now and we are now
+                      competing with the big taxi company for market share in
+                      the region but people prefer the comfort and experience of
+                      our cars over the competition. Demand continues to remain
+                      steady and another two vehicles can be brought into the
+                      fold.
                     </p>
                   </div>
                 </div>
@@ -94,15 +97,13 @@ export default function About() {
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>July 2014</h4>
+                    <h4>January 2020</h4>
                     <h4 className="subheading">Phase Two Expansion</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Sunt ut voluptatum eius sapiente, totam reiciendis
-                      temporibus qui quibusdam, recusandae sit vero unde, sed,
-                      incidunt et ea quo dolore laudantium consectetur!
+                      Now we're looking forward to creating our own app for
+                      locals.
                     </p>
                   </div>
                 </div>

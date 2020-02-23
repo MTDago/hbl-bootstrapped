@@ -27,17 +27,17 @@ export default function Team() {
                 <p className="text-muted">Lead Designer</p>
                 <ul className="list-inline social-buttons">
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-facebook-f"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-linkedin-in"></i>
                     </a>
                   </li>
@@ -55,17 +55,17 @@ export default function Team() {
                 <p className="text-muted">Lead Marketer</p>
                 <ul className="list-inline social-buttons">
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-facebook-f"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-linkedin-in"></i>
                     </a>
                   </li>
@@ -83,17 +83,17 @@ export default function Team() {
                 <p className="text-muted">Lead Developer</p>
                 <ul className="list-inline social-buttons">
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-facebook-f"></i>
                     </a>
                   </li>
                   <li className="list-inline-item">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-linkedin-in"></i>
                     </a>
                   </li>
@@ -117,7 +117,7 @@ export default function Team() {
         <div className="container">
           <div className="row">
             <div className="col-md-3 col-sm-6">
-              <a href="#">
+              <a href="/">
                 <img
                   className="img-fluid d-block mx-auto"
                   src="img/logos/envato.jpg"
@@ -126,7 +126,7 @@ export default function Team() {
               </a>
             </div>
             <div className="col-md-3 col-sm-6">
-              <a href="#">
+              <a href="/">
                 <img
                   className="img-fluid d-block mx-auto"
                   src="img/logos/designmodo.jpg"
@@ -135,7 +135,7 @@ export default function Team() {
               </a>
             </div>
             <div className="col-md-3 col-sm-6">
-              <a href="#">
+              <a href="/">
                 <img
                   className="img-fluid d-block mx-auto"
                   src="img/logos/themeforest.jpg"
@@ -144,7 +144,7 @@ export default function Team() {
               </a>
             </div>
             <div className="col-md-3 col-sm-6">
-              <a href="#">
+              <a href="/">
                 <img
                   className="img-fluid d-block mx-auto"
                   src="img/logos/creative-market.jpg"

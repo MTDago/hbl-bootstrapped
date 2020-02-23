@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div className="container">
         <a className="navbar-brand js-scroll-trigger" href="#page-top">
-          Start Bootstrap
+          Hervey Bay Limousines
         </a>
         <button
           className="navbar-toggler navbar-toggler-right"
@@ -28,7 +28,7 @@ export default function Navbar() {
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#portfolio">
-                Portfolio
+                Fleet
               </a>
             </li>
             <li className="nav-item">

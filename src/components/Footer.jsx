@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="col-md-4">
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
-                <a href="#">
+                <a href="/">
                   <i className="fa fa-twitter"></i>
                 </a>
               </li>
@@ -23,7 +23,7 @@ export default function Footer() {
                 </a>
               </li>
               <li className="list-inline-item">
-                <a href="#">
+                <a href="/">
                   <i className="fa fa-linkedin-in"></i>
                 </a>
               </li>
@@ -32,10 +32,10 @@ export default function Footer() {
           <div className="col-md-4">
             <ul className="list-inline quicklinks">
               <li className="list-inline-item">
-                <a href="#">Privacy Policy</a>
+                <a href="/">Privacy Policy</a>
               </li>
               <li className="list-inline-item">
-                <a href="#">Terms of Use</a>
+                <a href="/">Terms of Use</a>
               </li>
             </ul>
           </div>

@@ -8,7 +8,7 @@ export default function Services() {
           <div className="col-lg-12 text-center">
             <h2 className="section-heading text-uppercase">Services</h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              What you can expect from us
             </h3>
           </div>
         </div>
@@ -16,37 +16,41 @@ export default function Services() {
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fa fa-circle fa-stack-2x text-primary"></i>
-              <i className="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              <i className="fa fa-fast-forward fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 className="service-heading">E-Commerce</h4>
+            <h4 className="service-heading">Fast Response Times</h4>
             <p className="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
+              Our reputation demands that we be prompt and punctual to any
+              customer, you'll be notified when one of our fleet has been
+              dispatched to your location and given an estimated time of
+              arrival.
             </p>
           </div>
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fa fa-circle fa-stack-2x text-primary"></i>
-              <i className="fa fa-laptop fa-stack-1x fa-inverse"></i>
+              <i className="fa fa-car fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 className="service-heading">Responsive Design</h4>
+            <h4 className="service-heading">Comfortable Transportation</h4>
             <p className="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
+              All of our cars a impeccably serviced and detailed. We buy our
+              cars from manufacturers with a reputation for comfort and
+              efficiency.
             </p>
           </div>
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fa fa-circle fa-stack-2x text-primary"></i>
-              <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
+              <i className="fa fa-dollar fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 className="service-heading">Web Security</h4>
+            <h4 className="service-heading">Great Prices</h4>
             <p className="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-              maxime quam architecto quo inventore harum ex magni, dicta
-              impedit.
+              Our prices have kept us in the front of our customers minds when
+              it comes to recommending us to other people. We don't spend our
+              money marketing, word of mouth has served our interests perfectly
+              and with the element of social media, word of mouth is more
+              effective than ever. We Guarantee that we don't add a margin for
+              marketing on top of our fares.
             </p>
           </div>
         </div>
