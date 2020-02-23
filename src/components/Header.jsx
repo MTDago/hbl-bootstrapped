@@ -2,13 +2,15 @@ import React from "react";
 
 export default function Header() {
   return (
-    <header class="masthead">
-      <div class="container">
-        <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Studio!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
+    <header className="masthead">
+      <div className="container">
+        <div className="intro-text">
+          <div className="intro-lead-in">Welcome To Our Studio!</div>
+          <div className="intro-heading text-uppercase">
+            It's Nice To Meet You
+          </div>
           <a
-            class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+            className="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
             href="#services"
           >
             Tell Me More

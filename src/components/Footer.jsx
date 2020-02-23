@@ -2,37 +2,39 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer class="footer">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-4">
-            <span class="copyright">Copyright &copy; Your Website 2019</span>
+    <footer className="footer">
+      <div className="container">
+        <div className="row align-items-center">
+          <div className="col-md-4">
+            <span className="copyright">
+              Copyright &copy; Your Website 2019
+            </span>
           </div>
-          <div class="col-md-4">
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
+          <div className="col-md-4">
+            <ul className="list-inline social-buttons">
+              <li className="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-twitter"></i>
+                  <i className="fa fa-twitter"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-facebook-f"></i>
+              <li className="list-inline-item">
+                <a href="https://m.facebook.com/pages/Hervey-Bay-Limousine-Service/170589799997710#_=_">
+                  <i className="fa fa-facebook-f"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
+              <li className="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-linkedin-in"></i>
+                  <i className="fa fa-linkedin-in"></i>
                 </a>
               </li>
             </ul>
           </div>
-          <div class="col-md-4">
-            <ul class="list-inline quicklinks">
-              <li class="list-inline-item">
+          <div className="col-md-4">
+            <ul className="list-inline quicklinks">
+              <li className="list-inline-item">
                 <a href="#">Privacy Policy</a>
               </li>
-              <li class="list-inline-item">
+              <li className="list-inline-item">
                 <a href="#">Terms of Use</a>
               </li>
             </ul>

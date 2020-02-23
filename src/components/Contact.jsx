@@ -2,49 +2,49 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section class="page-section" id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading text-muted">
+    <section className="page-section" id="contact">
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-12 text-center">
+            <h2 className="section-heading text-uppercase">Contact Us</h2>
+            <h3 className="section-subheading text-muted">
               Lorem ipsum dolor sit amet consectetur.
             </h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12">
+        <div className="row">
+          <div className="col-lg-12">
             <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <p class="help-block text-danger"></p>
+              <div className="row">
+                <div className="col-md-6">
+                  <div className="form-group">
+                    <p className="help-block text-danger"></p>
                   </div>
-                  <div class="form-group">
-                    <p class="help-block text-danger"></p>
+                  <div className="form-group">
+                    <p className="help-block text-danger"></p>
                   </div>
-                  <div class="form-group">
-                    <p class="help-block text-danger"></p>
+                  <div className="form-group">
+                    <p className="help-block text-danger"></p>
                   </div>
                 </div>
-                <div class="col-md-6">
-                  <div class="form-group">
+                <div className="col-md-6">
+                  <div className="form-group">
                     <textarea
-                      class="form-control"
+                      className="form-control"
                       id="message"
                       placeholder="Your Message *"
                       required="required"
                       data-validation-required-message="Please enter a message."
                     ></textarea>
-                    <p class="help-block text-danger"></p>
+                    <p className="help-block text-danger"></p>
                   </div>
                 </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
+                <div className="clearfix"></div>
+                <div className="col-lg-12 text-center">
                   <div id="success"></div>
                   <button
                     id="sendMessageButton"
-                    class="btn btn-primary btn-xl text-uppercase"
+                    className="btn btn-primary btn-xl text-uppercase"
                     type="submit"
                   >
                     Send Message
