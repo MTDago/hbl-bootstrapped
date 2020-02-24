@@ -46,11 +46,8 @@ export default function Services() {
             <h4 className="service-heading">Great Prices</h4>
             <p className="text-muted">
               Our prices have kept us in the front of our customers minds when
-              it comes to recommending us to other people. We don't spend our
-              money marketing, word of mouth has served our interests perfectly
-              and with the element of social media, word of mouth is more
-              effective than ever. We Guarantee that we don't add a margin for
-              marketing on top of our fares.
+              it comes to recommending us to other people. We guarantee that we
+              don't add a margin for marketing on top of our fares.
             </p>
           </div>
         </div>

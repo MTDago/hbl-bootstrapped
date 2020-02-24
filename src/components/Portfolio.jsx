@@ -24,11 +24,7 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/01-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/01.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Threads</h4>
@@ -46,11 +42,7 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/02-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/01.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Explore</h4>
@@ -68,18 +60,14 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/03-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/03.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Finish</h4>
               <p className="text-muted">Identity</p>
             </div>
           </div>
-          <div className="col-md-4 col-sm-6 portfolio-item">
+          {/* <div className="col-md-4 col-sm-6 portfolio-item">
             <a
               className="portfolio-link"
               data-toggle="modal"
@@ -90,18 +78,14 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/04-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/08.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Lines</h4>
               <p className="text-muted">Branding</p>
             </div>
-          </div>
-          <div className="col-md-4 col-sm-6 portfolio-item">
+          </div> */}
+          {/* <div className="col-md-4 col-sm-6 portfolio-item">
             <a
               className="portfolio-link"
               data-toggle="modal"
@@ -112,18 +96,14 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/05-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/09.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Southwest</h4>
               <p className="text-muted">Website Design</p>
             </div>
-          </div>
-          <div className="col-md-4 col-sm-6 portfolio-item">
+          </div> */}
+          {/* <div className="col-md-4 col-sm-6 portfolio-item">
             <a
               className="portfolio-link"
               data-toggle="modal"
@@ -134,17 +114,13 @@ export default function Portfolio() {
                   <i className="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img
-                className="img-fluid"
-                src="img/portfolio/06-thumbnail.jpg"
-                alt=""
-              />
+              <img className="img-fluid" src="../img/01.png" alt="" />
             </a>
             <div className="portfolio-caption">
               <h4>Window</h4>
               <p className="text-muted">Photography</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

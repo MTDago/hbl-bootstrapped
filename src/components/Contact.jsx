@@ -8,7 +8,7 @@ export default function Contact() {
           <div className="col-lg-12 text-center">
             <h2 className="section-heading text-uppercase">Contact Us</h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              Schedule our services for an upcoming event!
             </h3>
           </div>
         </div>
